@@ -3,7 +3,7 @@
 ## Description :
 In this project, I have built a k-NN Classifier to predict the party affiliation of United States Congressmen based on their voting records.
 
-After training our model, I have calculated model performances.
+After training the model, I have calculated model performances.
 
 Also, optimized the classification model with Hyperparamter tuning.
 
