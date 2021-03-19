@@ -1,7 +1,7 @@
 # K Nearest Neighbors Project
 
 ## Description :
-In this project, I have built a k-NN Classifier to predict the party affiliation of United States Congressmen based on their voting records.
+In this project, I have built a k-NN Classifier to classify the party affiliation of United States Congressmen based on their voting records.
 
 After training the model, I have calculated model performances.
 
