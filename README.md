@@ -7,6 +7,8 @@ After training the model, I have calculated model performances.
 
 Also, optimized the classification model with Hyperparamter tuning.
 
+**You can also refer to my Blog on Medium. Here is the link ==>** []()
+
 ---
 ## Data Info :
 I have used [Congressional Voting Records Dataset](https://archive.ics.uci.edu/ml/datasets/congressional+voting+records) from UCI Machine Learning Repository.
