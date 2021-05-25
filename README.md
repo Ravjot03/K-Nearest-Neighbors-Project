@@ -7,7 +7,7 @@ After training the model, I have calculated model performances.
 
 Also, optimized the classification model with Hyperparamter tuning.
 
-**You can also refer to my Blog on Medium. Here is the link ==>** [](https://python.plainenglish.io/implementation-of-a-k-nearest-neighbors-model-with-python-85ad4b8d64e7)
+**You can also refer to my Blog on Medium. Here is the link ==>** [Implementation of a k-Nearest Neighbors Model with Python](https://python.plainenglish.io/implementation-of-a-k-nearest-neighbors-model-with-python-85ad4b8d64e7)
 
 ---
 ## Data Info :
